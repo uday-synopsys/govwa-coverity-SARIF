@@ -6,6 +6,7 @@
     "sqlport": "3306",
     "webserver": "http://localhost",
     "webport": "8888",
+    "secret": "AC73fd07d3d720f8b2f850328debd4fa7d",
 
     "sessionkey:": "G0Vw444"
 }
